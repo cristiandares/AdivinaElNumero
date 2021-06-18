@@ -50,7 +50,7 @@ Cuando adivines el numero te lo indicará
 
 * [Visual Studio Code ](https://code.visualstudio.com/) - Es un editor de código fuente
 * [Python](https://www.python.org/) - Lenguaje de programación interpretado
-
+* [random](https://docs.python.org/3/library/random.html) - Modulo de **Python** para generar numeros aleatorios
 
 
 ## Autores ✒️
